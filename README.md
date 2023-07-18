@@ -1,15 +1,11 @@
-Hi 👋 My name is Thanakorn Sangmee
-==================================
+# 💫 About Me:
+Hello all hardworking developers 👋. My name is Thanakorn Sangmee. My nickname is Boss. I'm 18 years old. I'm currently studying at Singburi Technical College, Vocational Vocational Certificate 1.
 
-FullStack Web Developer
------------------------
 
-I've been learning React.js for 4 months
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thanakorn-sangmee-aa7793278/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@JnasDev) 
 
-* 🌍  I'm based in Singburi, Thailand
-
-### Skills
-
+# 💻 Tech Stack:
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -24,8 +20,12 @@ I've been learning React.js for 4 months
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JnasDev&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JnasDev&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JnasDev&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=JnasDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Socials
-
-<p align="left"> <a href="https://www.linkedin.com/in/thanakorn-sangmee-aa7793278/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@JnasDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
